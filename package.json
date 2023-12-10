@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Kyle Chandler"
+	"author": "Kyle Chandler" ,
+	"description": "A project that does something awesome",
 }
